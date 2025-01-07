@@ -1,3 +1,1 @@
-console.log("hello");
-
-console.log("main branch");
+console.log("this is from main branch");
